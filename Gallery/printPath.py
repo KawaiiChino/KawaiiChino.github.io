@@ -18,6 +18,6 @@ def geturlPath():
 if __name__ == '__main__':
     for item in geturlPath():
         print("<div class=\"col-sm-6 col-md-3\">")
-        print("<a href=\"+item+\" class=\"thumbnail\">")
+        print("<a href=\""+item+"\" class=\"thumbnail\">")
         print("<img src=\""+item+"\" alt=\""+item+"\">")
         print("</a>\n</div>")
