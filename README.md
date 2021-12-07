@@ -11,3 +11,4 @@ tomcat10中使用的包名改了，Jakarta.servlet和javax.servlet它不一样�
 - [透明背景webm视频的导出](mynote/md/关于使用AE和ME制作透明webm.md)  
 - [一张奇怪的图](MyStudy/好怪哦.html)
     - 唉
+- [测试显示图片页面](Gallery/showpicture.html)
