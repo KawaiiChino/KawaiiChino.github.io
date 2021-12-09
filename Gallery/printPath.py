@@ -8,7 +8,7 @@ def geturlPath():
     # 循环遍历该目录下的照片
     for dir in dirs:
         # 拼接字符串
-        pa = '.\\img\\'+dir
+        pa = './img/'+dir
         # 判断是否为照片
         if not os.path.isdir(pa):
             # 使用生成器循环输出
